@@ -1,0 +1,17 @@
+h2, p{
+    text-align: center;
+    color: aqua;
+}
+h1{
+    text-align: center;
+    color:black;
+
+}
+.add_video{
+background-color: gray;
+max-width: 800px;
+max-height: 600px; 
+position:relative;
+text-align: center;
+color: red;
+}
